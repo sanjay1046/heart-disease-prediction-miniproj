@@ -25,11 +25,11 @@ This project aims to refine heart disease prediction accuracy by combining class
 ## 📁 Folder Structure
 
 ```bash
-heart-disease-prediction/
+heart-disease-prediction-miniproj/
 ├── data/                   # Dataset (CSV)
 ├── notebooks/              # Jupyter Notebooks for testing/analysis
 ├── snapshots/              # All visualizations and figures
 ├── report/                 # Project report in PDF
-├── basepaper.pdf           # Project base paper
+├── Refining heart disease prediction accuracy using hybrid machine learning techniques with novel metaheuristic algorithms.pdf           # Project base paper
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project overview (this file)
