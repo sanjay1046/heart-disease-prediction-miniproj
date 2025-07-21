@@ -41,7 +41,7 @@ This folder contains all visualizations used in the mini project:
 ---
 
 ### 🔹 Fig. 5 — Comparison of Model K-Fold Accuracies
-![5](./5.png)
+![5](./5.6.png)
 
 ---
 
