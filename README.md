@@ -28,8 +28,8 @@ This project aims to refine heart disease prediction accuracy by combining class
 heart-disease-prediction/
 ├── data/                   # Dataset (CSV)
 ├── notebooks/              # Jupyter Notebooks for testing/analysis
-├── src/                    # Core Python modules (preprocessing, modeling, optimization)
 ├── snapshots/              # All visualizations and figures
 ├── report/                 # Project report in PDF
+├── basepaper.pdf           # Project base paper
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project overview (this file)
